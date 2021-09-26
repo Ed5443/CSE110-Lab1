@@ -43,7 +43,7 @@ int main()
 
 ## [Requirements](#requirements)
 
-***This page requires***
+***This page requires:***
 - [x] Pictures
 - [x] Headings
 - [x] Styling text
