@@ -13,7 +13,7 @@
 
 **Major:** ~~CS~~ Computer Science
 
-## [Computer Science](#what-is-computer-science)
+## [Computer Science](#computer-science)
 
 ### [What is Computer Science?]
 
@@ -40,6 +40,8 @@ int main()
 2. python
 3. java
 4. Assembly
+
+## [Requirements](#requirements)
 
 ***This page requires***
 - [x] Pictures
