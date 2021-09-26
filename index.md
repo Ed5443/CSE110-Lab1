@@ -6,8 +6,11 @@
 ## Introduction
 
 **Name:** Edward Chang
+
 **School:** [UCSD](/images/ucsd%20logo.png)
+
 **College:** [*Revelle*](/images/revelle-logo.png)
+
 **Major:** ~~CS~~ Computer Science
 
 ## Computer Science?
