@@ -13,9 +13,9 @@
 
 **Major:** ~~CS~~ Computer Science
 
-## Computer Science?
+## [Computer Science](#what-is-computer-science)
 
-### [What is Computer Science?](https://en.wikipedia.org/wiki/Computer_science)
+### [What is Computer Science?]
 
 In the words of my first CS professor:
 > Computers are very stupid
